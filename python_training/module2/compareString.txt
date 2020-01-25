@@ -1,0 +1,6 @@
+1.output:
+    z is not less then a.
+2.output
+   Boston  
+   New York
+     

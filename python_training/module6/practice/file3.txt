@@ -1,0 +1,9 @@
+def main():
+	infile=open(r'C:\Users\Student\Documents\aditi\module2\philosopher.txt','r')
+	line= infile.readline()
+	while line !=":
+		amount=float(line)
+		line=infile.readline()
+		infile.close()
+
+main()		
